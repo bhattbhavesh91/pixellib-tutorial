@@ -1,7 +1,14 @@
 # Change your image Background with few lines of code using PixelLib
 
-* [Click here](https://youtu.be/VhGivtzgfmY)
-* Click on the image below
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=VhGivtzgfmY" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/VhGivtzgfmY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Change your image Background with few lines of code using PixelLib](http://img.youtube.com/vi/VhGivtzgfmY/0.jpg)](http://www.youtube.com/watch?v=VhGivtzgfmY)
 
